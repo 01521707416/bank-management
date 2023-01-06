@@ -1,0 +1,15 @@
+User login
+
+gmail: some@gmail.com
+
+pas: some
+
+Manager Login
+
+gmail : manager@manager.com
+pass: manager
+
+Cashier Login
+
+gmail: cashier@cashier.com
+pass: cashier
